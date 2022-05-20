@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0604A2792116E1E96602a08D90734d4Cda9620d6",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x0604a2792116e1e96602a08d90734d4cda9620d6",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Clods Official",
+  "SYMBOL": "CLDNFT",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/clods-official",
+  "SHOW_BACKGROUND": true
+}
